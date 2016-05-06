@@ -1,6 +1,13 @@
 Changes
+lib/Foo.pm
+Makefile
 Makefile.PL
 MANIFEST
+MANIFEST.bak
+MANIFEST.SKIP
+MYMETA.json
+MYMETA.yml
+pm_to_blib
 README
+releaserc
 t/Foo.t
-lib/Foo.pm
