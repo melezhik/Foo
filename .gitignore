@@ -1,0 +1,11 @@
+*.tar
+*.tar.gz
+MANIFEST.SKIP
+MANIFEST.bak
+MYMETA.json
+MYMETA.yml
+Makefile
+blib/
+pm_to_blib
+releaserc
+
